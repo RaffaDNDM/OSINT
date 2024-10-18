@@ -1,4 +1,4 @@
-# TelephoneInformation
+# Telephone Information
 The program prints the italian geography zone related to home telephone numbers, original operators of mobile telephone numbers or service related to a special number.
 It requires several dependencies, that you can install using this bash command:
 ```bash
