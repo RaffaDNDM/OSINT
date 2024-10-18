@@ -1,0 +1,339 @@
+004191,Lombardia,Como 
+010,Piemonte,Alessandria 
+010,Liguria,Genova 
+011,Piemonte,Asti 
+011,Piemonte,Cuneo 
+011,Piemonte,Torino 
+0121,Piemonte,Torino 
+0122,Piemonte,Torino 
+0123,Piemonte,Torino 
+0124,Piemonte,Torino 
+0125,Piemonte,Torino 
+0125,Valle d'Aosta,Valle d'Aosta
+0131,Piemonte,Alessandria 
+0141,Piemonte,Alessandria 
+0141,Piemonte,Asti 
+0141,Piemonte,Cuneo 
+0142,Piemonte,Alessandria 
+0143,Piemonte,Alessandria 
+0144,Piemonte,Alessandria 
+0144,Piemonte,Asti 
+015,Piemonte,Biella 
+015,Piemonte,Vercelli 
+0161,Piemonte,Biella 
+0161,Piemonte,Novara 
+0161,Piemonte,Torino 
+0161,Piemonte,Vercelli 
+0163,Piemonte,Biella 
+0163,Piemonte,Novara 
+0163,Piemonte,Vercelli 
+0165,Valle d'Aosta,Valle d'Aosta
+0166,Valle d'Aosta,Valle d'Aosta
+0171,Piemonte,Cuneo 
+0172,Piemonte,Cuneo 
+0173,Piemonte,Cuneo 
+0174,Piemonte,Cuneo 
+0175,Piemonte,Cuneo 
+0182,Liguria,Savona 
+0183,Liguria,Imperia 
+0184,Liguria,Imperia 
+0185,Liguria,Genova 
+0187,Liguria,La Spezia 
+0187,Toscana,Massa Carrara 
+019,Piemonte,Alessandria 
+019,Liguria,Savona 
+02,Lombardia,Bergamo 
+02,Lombardia,Como 
+02,Lombardia,Lodi 
+02,Lombardia,Milano 
+02,Lombardia,Monza e della Brianza 
+02,Lombardia,Pavia 
+02,Lombardia,Varese 
+030,Lombardia,Brescia 
+031,Lombardia,Como 
+031,Lombardia,Lecco 
+0321,Piemonte,Novara 
+0322,Piemonte,Novara 
+0322,Piemonte,Verbano Cusio Ossola 
+0323,Piemonte,Novara 
+0323,Piemonte,Verbano Cusio Ossola 
+0324,Piemonte,Verbano Cusio Ossola 
+0331,Lombardia,Como 
+0331,Lombardia,Milano 
+0331,Piemonte,Novara 
+0331,Lombardia,Varese 
+0332,Lombardia,Varese 
+0341,Lombardia,Lecco 
+0342,Lombardia,Sondrio 
+0343,Lombardia,Sondrio 
+0344,Lombardia,Como 
+0345,Lombardia,Bergamo 
+0346,Lombardia,Bergamo 
+035,Lombardia,Bergamo 
+035,Lombardia,Brescia 
+035,Lombardia,Lecco 
+0362,Lombardia,Monza e della Brianza 
+0363,Lombardia,Bergamo 
+0363,Lombardia,Cremona 
+0363,Lombardia,Milano 
+0364,Lombardia,Brescia 
+0365,Lombardia,Brescia 
+0371,Lombardia,Lodi 
+0371,Lombardia,Milano 
+0372,Lombardia,Cremona 
+0373,Lombardia,Cremona 
+0374,Lombardia,Cremona 
+0375,Lombardia,Cremona 
+0375,Lombardia,Mantova 
+0376,Lombardia,Cremona 
+0376,Lombardia,Mantova 
+0377,Lombardia,Lodi 
+0381,Lombardia,Pavia 
+0382,Lombardia,Pavia 
+0383,Lombardia,Pavia 
+0384,Lombardia,Pavia 
+0385,Lombardia,Pavia 
+0386,Lombardia,Mantova 
+039,Lombardia,Lecco 
+039,Lombardia,Monza e della Brianza 
+040,Friuli Venezia Giulia,Trieste 
+041,Veneto,Treviso 
+041,Veneto,Venezia 
+0421,Veneto,Treviso 
+0421,Veneto,Venezia 
+0422,Veneto,Treviso 
+0422,Veneto,Venezia 
+0423,Veneto,Treviso 
+0424,Veneto,Vicenza 
+0425,Veneto,Padova 
+0425,Veneto,Rovigo 
+0426,Veneto,Rovigo 
+0426,Veneto,Venezia 
+0427,Friuli Venezia Giulia,Pordenone 
+0427,Friuli Venezia Giulia,Udine 
+0428,Friuli Venezia Giulia,Udine 
+0429,Veneto,Padova 
+0431,Friuli Venezia Giulia,Gorizia 
+0431,Friuli Venezia Giulia,Udine 
+0431,Veneto,Venezia 
+0432,Friuli Venezia Giulia,Pordenone 
+0432,Friuli Venezia Giulia,Udine 
+0433,Friuli Venezia Giulia,Udine 
+0434,Friuli Venezia Giulia,Pordenone 
+0434,Veneto,Treviso 
+0435,Veneto,Belluno 
+0436,Veneto,Belluno 
+0437,Veneto,Belluno 
+0438,Veneto,Treviso 
+0439,Veneto,Belluno
+0439,Trentino Alto Adige,Trento 
+0442,Veneto,Verona 
+0444,Veneto,Vicenza 
+0445,Veneto,Vicenza 
+045,Veneto,Verona 
+0461,Trentino Alto Adige,Trento 
+0462,Trentino Alto Adige,Trento 
+0463,Trentino Alto Adige,Bolzano
+0463,Trentino Alto Adige,Trento 
+0464,Trentino Alto Adige,Trento 
+0465,Trentino Alto Adige,Trento 
+0471,Trentino Alto Adige,Bolzano
+0472,Trentino Alto Adige,Bolzano
+0473,Trentino Alto Adige,Bolzano
+0474,Trentino Alto Adige,Bolzano
+0481,Friuli Venezia Giulia,Gorizia 
+049,Veneto,Padova 
+049,Veneto,Venezia 
+050,Toscana,Pisa 
+051,Emilia Romagna,Bologna 
+051,Emilia Romagna,Ferrara 
+0521,Emilia Romagna,Parma 
+0522,Emilia Romagna,Reggio nell'Emilia 
+0523,Emilia Romagna,Piacenza 
+0524,Emilia Romagna,Parma 
+0525,Emilia Romagna,Parma 
+0532,Emilia Romagna,Ferrara 
+0533,Emilia Romagna,Ferrara 
+0534,Emilia Romagna,Bologna 
+0535,Emilia Romagna,Modena 
+0536,Emilia Romagna,Modena 
+0536,Emilia Romagna,Reggio nell'Emilia 
+0541,Emilia Romagna,Forlì Cesena 
+0541,Marche,Pesaro e Urbino 
+0541,Emilia Romagna,Rimini 
+0542,Emilia Romagna,Bologna 
+0543,Emilia Romagna,Forlì Cesena 
+0544,Emilia Romagna,Ravenna 
+0545,Emilia Romagna,Ravenna 
+0546,Emilia Romagna,Forlì Cesena 
+0546,Emilia Romagna,Ravenna 
+0547,Emilia Romagna,Forlì Cesena
+055,Toscana,Arezzo
+055,Toscana,Firenze
+055,Toscana,Prato
+0564,Toscana,Grosseto
+0565,Toscana,Livorno
+0565,Toscana,Pisa
+0566,Toscana,Grosseto
+0571,Toscana,Firenze
+0571,Toscana,Pisa
+0572,Toscana,Lucca
+0572,Toscana,Pistoia
+0573,Toscana,Pistoia
+0574,Toscana,Pistoia
+0574,Toscana,Prato
+0575,Toscana,Arezzo
+0577,Toscana,Siena
+0578,Umbria,Perugia
+0578,Toscana,Siena
+0583,Toscana,Lucca
+0584,Toscana,Lucca
+0585,Toscana,Massa Carrara
+0586,Toscana,Livorno
+0586,Toscana,Pisa
+0587,Toscana,Pisa
+0588,Toscana,Pisa
+059,Emilia Romagna,Modena
+06,Lazio,Latina
+06,Lazio,Roma
+06,Lazio,Viterbo
+070,Sardegna,Cagliari
+070,Sardegna,Medio Campidano
+071,Marche,Ancona
+071,Marche,Macerata
+0721,Marche,Pesaro e Urbino
+0722,Marche,Pesaro e Urbino
+0731,Marche,Ancona
+0732,Marche,Ancona
+0733,Marche,Macerata
+0734,Marche,Ascoli Piceno
+0734,Marche,Fermo
+0735,Marche,Ascoli Piceno
+0736,Marche,Ascoli Piceno
+0736,Marche,Fermo
+0737,Marche,Macerata
+0742,Umbria,Perugia
+0743,Umbria,Perugia
+0744,Lazio,Rieti
+0744,Umbria,Terni
+0746,Lazio,Rieti
+075,Umbria,Perugia
+075,Umbria,Terni
+0761,Lazio,Roma
+0761,Lazio,Viterbo
+0763,Umbria,Terni
+0763,Lazio,Viterbo
+0765,Lazio,Rieti
+0765,Lazio,Roma
+0766,Lazio,Roma
+0766,Lazio,Viterbo
+0771,Lazio,Latina
+0773,Lazio,Latina
+0774,Lazio,Roma
+0775,Lazio,Frosinone
+0776,Lazio,Frosinone
+0781,Sardegna,Cagliari
+0781,Sardegna,Carbonia Iglesias
+0782,Sardegna,Cagliari
+0782,Sardegna,Ogliastra
+0782,Sardegna,Oristano
+0783,Sardegna,Medio Campidano
+0783,Sardegna,Oristano
+0784,Sardegna,Nuoro
+0784,Sardegna,Olbia Tempio
+0785,Sardegna,Nuoro
+0785,Sardegna,Oristano
+0789,Sardegna,Olbia Tempio
+079,Sardegna,Nuoro
+079,Sardegna,Olbia Tempio
+079,Sardegna,Sassari
+080,Puglia,Bari
+080,Puglia,Barletta Andria Trani
+080,Puglia,Brindisi
+080,Puglia,Taranto
+081,Campania,Avellino
+081,Campania,Caserta
+081,Campania,Napoli
+081,Campania,Salerno
+0823,Campania,Benevento
+0823,Campania,Caserta
+0824,Campania,Avellino
+0824,Campania,Benevento
+0825,Campania,Avellino
+0827,Campania,Avellino
+0828,Campania,Salerno
+0831,Puglia,Brindisi
+0832,Puglia,Lecce
+0833,Puglia,Lecce
+0835,Basilicata,Matera
+0836,Puglia,Lecce
+085,Abruzzo,Chieti
+085,Abruzzo,Pescara
+085,Abruzzo,Teramo
+0861,Abruzzo,Teramo
+0862,Abruzzo,L'Aquila
+0863,Abruzzo,L'Aquila
+0864,Abruzzo,L'Aquila
+0865,Molise,Isernia
+0871,Abruzzo,Chieti
+0872,Abruzzo,Chieti
+0873,Abruzzo,Chieti
+0874,Molise,Campobasso
+0874,Molise,Isernia
+0875,Molise,Campobasso
+0881,Puglia,Foggia
+0882,Puglia,Foggia
+0883,Puglia,Barletta Andria Trani
+0884,Puglia,Foggia
+0885,Puglia,Foggia
+089,Campania,Salerno
+090,Sicilia,Messina
+091,Sicilia,Palermo
+0921,Sicilia,Messina
+0921,Sicilia,Palermo
+0922,Sicilia,Agrigento
+0922,Sicilia,Caltanissetta
+0923,Sicilia,Trapani
+0924,Sicilia,Palermo
+0924,Sicilia,Trapani
+0925,Sicilia,Agrigento
+0931,Sicilia,Siracusa
+0932,Sicilia,Ragusa
+0933,Sicilia,Caltanissetta
+0933,Sicilia,Catania
+0934,Sicilia,Caltanissetta
+0934,Sicilia,Enna
+0935,Sicilia,Enna
+0935,Sicilia,Messina
+0941,Sicilia,Messina
+0942,Sicilia,Catania
+0942,Sicilia,Messina
+095,Sicilia,Catania
+095,Sicilia,Messina
+095,Sicilia,Siracusa
+0961,Calabria,Catanzaro
+0962,Calabria,Crotone
+0963,Calabria,Vibo Valentia
+0964,Calabria,Reggio di Calabria
+0965,Calabria,Reggio di Calabria
+0966,Calabria,Reggio di Calabria
+0966,Calabria,Vibo Valentia
+0967,Calabria,Catanzaro
+0968,Calabria,Catanzaro
+0968,Calabria,Cosenza
+0968,Calabria,Vibo Valentia
+0971,Basilicata,Potenza
+0972,Basilicata,Potenza
+0973,Basilicata,Potenza
+0973,Campania,Salerno
+0974,Campania,Salerno
+0975,Basilicata,Potenza
+0975,Campania,Salerno
+0976,Basilicata,Potenza
+0981,Calabria,Cosenza
+0982,Calabria,Cosenza
+0983,Calabria,Cosenza
+0984,Calabria,Cosenza
+0984,Calabria,Crotone
+0985,Calabria,Cosenza
+099,Puglia,Taranto
